@@ -1,2 +1,3 @@
-# Aplikacja-do-zarz-dzania-postami
-Z wykorzystaniem MongoDB
+# Aplikacja-do-zarzadzania-postami
+Z wykorzystaniem MongoDB i generatora postów
+
